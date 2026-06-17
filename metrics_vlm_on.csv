@@ -1,0 +1,6 @@
+completed,total_time_s,victims_rescued,victims_total,success_rate,first_sighting_s,vision_total,vision_skipped,vision_skipped_pct,vision_llm_calls,sync_latency_s
+yes,108.3,3,3,1.00,33.7,186,186,100,0,7.7
+yes,104.3,3,3,1.00,7.5,235,235,100,0,4.5
+yes,107.6,3,3,1.00,6.6,205,205,100,0,5.9
+yes,74.7,3,3,1.00,6.6,119,119,100,0,14.1
+yes,80.6,3,3,1.00,6.8,101,101,100,0,6.9
